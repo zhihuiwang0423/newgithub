@@ -4,3 +4,9 @@ body{
 .img{
     border: 10px solid #0f0;
 }
+div{
+    border: 4px solis #abc;
+}
+.title{
+    font-size: 40px;
+}
