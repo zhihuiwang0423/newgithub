@@ -7,3 +7,6 @@ body{
 div{
     border: 4px solis #abc;
 }
+.title{
+    font-size: 40px;
+}
